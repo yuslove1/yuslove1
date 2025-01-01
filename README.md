@@ -27,7 +27,7 @@ I'm a front-end developer rapidly progressing towards becoming a full-stack deve
 **- 📫 How to reach me: ...**
 
 Email: Adexyuslove@gmail.com
-Linked: https://www.linkedin.com/in/yusufadesina
+Linkedin: https://www.linkedin.com/in/yusufadesina
 X: https://x.com/adeCode0
 
 
