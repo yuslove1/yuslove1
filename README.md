@@ -16,6 +16,7 @@ I'm a front-end developer rapidly progressing towards becoming a full-stack deve
 * **MovieDB (Capstone Project):** A movie database application built with ReactJS and Tailwind CSS. This project involved fetching movie data using an API, allowing users to search and view movie details. This project significantly enhanced my API integration skills (https://github.com/yuslove1/movieDB/tree/main/MovieDB-app)
 * **Sheda Landing Page:** A landing page for Sheda, a home renting platform. Built with HTML, CSS, and JavaScript, this project showcases Sheda's features and benefits.
 * **Airbnb Clone:** This project is an Airbnb clone built with React, TypeScript, Next.js, and Tailwind CSS. It provides a simplified booking and management system with core features like property listing, detailed views, checkout, and search functionality. This project serves as a practical case study for the ProDev frontend development program. (https://github.com/yuslove1/airbnb-clone-project)
+* **JobNest:** Collaborated with a back-end dev from ALX program to create a job platform using NextJs, tailwindcss and Typescript. It provide simplified job search option and allow users to filter accordingly.  
 
 
 **Experience:**
